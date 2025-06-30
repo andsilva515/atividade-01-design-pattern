@@ -1,3 +1,4 @@
+# Exercício - Ciclo 1 - Atividade
 # Design Patterns (Strategy, Singleton e Adapter)
 A implementação será utilizando os padrões de projetos Strategy, Singleton e Adapter. Linguagem de programação utilizada: C#.
 
