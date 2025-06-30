@@ -1,5 +1,5 @@
 # Design Patterns (Strategy, Singleton e Adapter)
-A implementação será utilizando o padrão **Strategy**, que é um dos mais didáticos e úteis para entender o conceito de encapsulamento de comportamentos. Linguagem de programação utilizada: C#.
+A implementação será utilizando os padrões de projetos Strategy, Singleton e Adapter. Linguagem de programação utilizada: C#.
 
 ## Padrão Strategy em C#
 
